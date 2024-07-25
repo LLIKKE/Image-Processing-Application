@@ -104,24 +104,16 @@ C_N_U IE's final assignment for the Digital Image Processing course, developed a
 - **预测编码**
 - **奇异值分解**
 
-## 使用方法
 
-1. 下载并安装本应用。
-2. 选择所需的图像处理功能模块。
-3. 根据具体需求调整相关参数，应用处理方法。
-4. 处理完成后，保存或导出处理后的图像。
+、、
 
-## 联系我们
-
-
-
-### 作者
+## 作者
 
 LLIKKE
 
 为了防止滥用实验报告不选择公开。
 如果您在使用过程中遇到任何问题或有任何建议，可以点个**star**，再通过以下方式联系我：
-- 电子邮件：wsdfn2024@163.com
+- 电子邮件：[wsdfn2024@163.com]
 
 <div style="text-align:center;">
     <img src="Fig/context.png" alt="context" width="300" height="400" />
