@@ -111,14 +111,6 @@ C_N_U IE's final assignment for the Digital Image Processing course, developed a
 
 LLIKKE
 
-为了防止滥用，实验报告不选择公开。
-
-如果您在使用过程中遇到任何问题或有任何建议，可以点个**star**，再通过以下方式联系我：
-- 电子邮件：[wsdfn2024@163.com]
-
-<div style="text-align:center;">
-    <img src="Fig/context.png" alt="context" width="300" height="400" />
-</div>
 
 
 
