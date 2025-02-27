@@ -2,9 +2,9 @@
 
 # 图像处理应用+UI界面
 
-C_N_U IE的数字图像处理课程期末作业，使用matlab开发了一款数字图像处理的应用，带着UI界面。
+数字图像处理课程期末作业，使用matlab开发了一款数字图像处理的应用，带着UI界面。
 
-C_N_U IE's final assignment for the Digital Image Processing course, developed an application for digital image processing using matlab with a UI interface.
+final assignment for the Digital Image Processing course, developed an application for digital image processing using matlab with a UI interface.
 
 <!-- PROJECT LOGO -->
 <br />
